@@ -1,5 +1,6 @@
 # CS6330Project
-Database Project
+Reference: https://arxiv.org/pdf/2501.16256
+Conference: VLDB 2025
 
 
 Team members:
